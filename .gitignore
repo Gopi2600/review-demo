@@ -1,0 +1,22 @@
+# Dependency Directories
+/node_modules
+/jspm_packages
+
+# Logs
+/npm-debug.log*
+.npm
+/.eslintcache
+
+# Environment Variables and Credentials
+.env
+.env.*
+.DS_Store # macOS generated files
+
+# Editors/IDE files
+.vscode/ # VS Code settings, if you don't want to share them
+*.sublime-workspace
+*.idea # IntelliJ/WebStorm files
+
+# Compiled files
+/dist
+/build
